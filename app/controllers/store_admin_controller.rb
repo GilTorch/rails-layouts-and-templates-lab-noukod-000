@@ -1,5 +1,5 @@
 class StoreAdminController < ApplicationController
   def admin
-    render :layouts => "admin"
+    render "admin"
   end
 end
