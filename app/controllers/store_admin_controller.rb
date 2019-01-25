@@ -1,5 +1,5 @@
 class StoreAdminController < ApplicationController
-  def admin
+  def home
     render "admin"
   end
 end
